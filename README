@@ -1,0 +1,5 @@
+To up the docker, use the command:
+docker-compose up
+
+App use nodemon!!!
+
